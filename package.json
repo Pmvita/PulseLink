@@ -1,0 +1,30 @@
+{
+  "name": "pulselink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PulseLink IoT System - Fullstack monorepo with Expo mobile app and WebSocket device simulator",
+  "workspaces": [
+    "apps/mobile",
+    "apps/simulator"
+  ],
+  "scripts": {
+    "start:sim": "node apps/simulator/index.js",
+    "start:mobile": "cd apps/mobile && npx expo start",
+    "install:all": "npm install --legacy-peer-deps",
+    "clean": "rm -rf node_modules apps/*/node_modules"
+  },
+  "overrides": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "keywords": [
+    "iot",
+    "websocket",
+    "expo",
+    "react-native",
+    "monorepo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

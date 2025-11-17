@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+apps/*/node_modules/
+
+# Expo
+apps/mobile/.expo/
+apps/mobile/dist/
+apps/mobile/web-build/
+
+# OS
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Build outputs
+apps/mobile/build/
+apps/simulator/dist/
+
+# Temporary files
+*.tmp
+.cache/
+

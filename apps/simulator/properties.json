@@ -1,0 +1,1490 @@
+{
+  "estates": [
+    { "Residential Properties": [] },
+    {"name": "Dubai Villa",
+      "id": "dubai-villa",
+      "type": "residence",
+      "category": "residential",
+      "company": "Mvita Capital HoldCo",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "address": "Ras Al Khor Reserve, Dubai, UAE",
+        "coordinates": {
+          "latitude": 25.2048,
+          "longitude": 55.2708
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Concierge",
+        "Wellness Staff"
+      ],
+      "size": {
+        "value": 46000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 74870675,
+        "currency": "USD",
+        "annualExpenses": 200000
+      },
+      "features": [
+        "November - February | Winter weather, perfect escape from northern summer",
+        "UAE Holding Company structure",
+        "🛏️ 8 Bedrooms, 🛁 12 Bathrooms",
+        "🌿 Located in Ras Al Khor Reserve",
+        "🏞️ 25,000 sq.ft lot with mangrove views",
+        "🚢 Direct marina access with yacht moorings",
+        "🏥 State-of-the-art wellness facilities",
+        "🌊 550 meters of waterfront",
+        "🌱 80,000 sq.m of landscaped green spaces",
+        "🏛️ Fully furnished with luxury brands",
+        "🍽️ Premium kitchen appliances",
+        "🦩 Views of Ras Al Khor Wildlife Sanctuary",
+        "🇦🇪 UAE Golden Visa"
+      ],
+      "Garage": {
+        "capacity": 8,
+        "features": [
+          "Display the actual cars from Mobility Page",
+          "Underground parking with valet service"
+        ]
+      },
+      "securityLevel": "maximum",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Surveillance cameras",
+        "Smart home integration",
+        "Wellness monitoring systems"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/dubai-united-arab-emirates/discover-serene-luxury-at-the-ritz-carlton-residences-dubai-creekside-where-wellness-meets-nature-14580561"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/28/2d9d7a02-985e-45e1-9586-b374a23daf0a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/29/356a284e-c89c-4118-8523-43d77b5f0c76/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/28/17db8ff6-02bd-40df-aac8-fe6faa02dc57/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/28/2108b9b9-6ad4-4f62-9c80-ce210e014d7b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/29/8e58521f-165c-429a-9d03-525b031a1291/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/28/afe7b90f-4614-49d4-a0a2-16be71893cf3/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/08/09/13/54/29/dd9537dd-45d9-4266-90ce-2a0d8a4c9921/je/2200xxs.jpg",
+        ""
+      ],
+      "notes": "Exclusive sanctuary in Ras Al Khor Reserve with wellness-focused living and direct marina access."
+    },
+    {"name": "Pierre Property",
+      "id": "pierres-property",
+      "type": "Penthouse",
+      "category": "residential",
+      "company": "Mvita Syndicate HoldCo",
+      "notes": "Yorkville flagship penthouse investment",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "181 Davenport Rd #PENTHOUSE, Toronto, ON M5R 0C4",
+        "coordinates": {
+          "latitude": 43.674877,
+          "longitude": -79.39379
+        }
+      },
+      "staff": {
+        "Security Guard": "active",
+        "Concierge": "included",
+        "Property Manager": "active",
+        "Housekeeper": "optional"
+      },
+      "size": {
+        "value": 5000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 13820000,
+        "currency": "USD",
+        "annualExpenses": 125000
+      },
+      "features": [
+        "Panoramic city skyline views",
+        "Lush tree-lined Yorkville streets",
+        "Floor-to-ceiling windows",
+        "Multiple balconies and terraces",
+        "Private marble foyer with two elevators",
+        "Premium heated stone floors",
+        "Smart home automation",
+        "Custom millwork and designer lighting",
+        "Private rooftop terrace with outdoor kitchen, fire table, and TV",
+        "Guest/nanny/office suite with private elevator",
+        "Two marble primary ensuites and dual dressing rooms",
+        "Four-car underground parking with concierge access"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Underground parking",
+          "Private elevator access",
+          "EV charging ready"
+        ]
+      },
+      "securityLevel": "maximum",
+      "automation": [
+        "Smart lighting and climate control",
+        "Integrated audio/video system",
+        "Biometric elevator access",
+        "Surveillance system",
+        "Smart locks",
+        "HVAC control",
+        "Fireplace automation"
+      ],
+      "listingUrl": [
+        "https://tour.kineticmedia.biz/penthouse--181-davenport-road-toronto/nb/"
+      ],
+      "images": [
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714468599.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714564992.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714587535.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714609502.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714630989.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714759897.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714784374.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598714845607.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715007332.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715031732.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715192849.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715313241.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715510263.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715718385.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715775491.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715798525.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716177314.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715844956.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715859454.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715882776.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715946880.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715904823.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598715988506.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716625354.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716649751.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716691340.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716755515.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716777488.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716803411.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716824512.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716845503.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598716930457.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717069935.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717115888.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717203474.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717225114.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717289446.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717495793.jpg",
+        "https://media.tourwizard.net/tours/152656/photo/1920x1080/virtual-tour-152656-photo-17598717571307.jpg",
+        "https://media.tourwizard.net/tours/152656/floorplan/2000x2000/virtual-tour-152656-floorplan-44958-17601334999195.jpg"
+      ]
+    },    
+    {"name": "Celine Estate",
+      "id": "celine-estate",
+      "type": "residence",
+      "category": "residential",
+      "company": "Mvita Syndicate HoldCo",
+      "notes": [""],
+      "location": {
+        "city": "Markham",
+        "country": "Canada",
+        "address": "113 Elgin St, Markham, ON L3T 1W7",
+        "coordinates": {
+          "latitude": 43.8,
+          "longitude": -79.6667
+        }
+      },
+      "staff": ["Security Guard"],
+      "size": {
+        "value": 12000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 10000000,
+        "currency": "USD",
+        "annualExpenses": 100000
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "2 Car Garage",
+        "5 Bedrooms + 8 Bathrooms"
+      ],
+      "Garage": {
+        "capacity": 2,
+        "features": [""]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/113-Elgin-St-Markham-ON-L3T-1W7/441804728_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/98af6177c6ce292bee0c288a04688058-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/9f1305c81d5a1dcd6b9becd02743d20e-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/7926669805c08c7c813e91c76cbd4773-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/e45a9ff2035d48dda301aaec72225c36-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/0e17c8a871a8bd71ed65644aef64f1fd-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/9493f397e8cbf2a391013fcbbafe9bcf-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/2b4f0111b581d94a8993454306cb7ffe-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/18c43880c42178b36b0694e67dd13add-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/3dbaa3bf87354bb83ae9c63a66af4108-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/439d00f92fb40baac01fc09b46a7fb25-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/79374de81aa59ababf58ab7fe864d6cd-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/896d2b1b0e5865393e3edd4cf5439077-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/cceff8eedb939ae39c5bddfeef7a8a9d-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/83e847ccf8fe40aa01d02e87d4f92906-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/542599de682902f7196c89cf6285e1d2-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/111ba573451630a89409221b651fb432-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/670d476e3243b7b2d836d6b775a57219-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/8fe1b14b5f8d5edd01361b7ddf0a3a28-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/0f40f0a5be3c4b278e445e3ddeaf4e91-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/89b05263e6114e7c2146738a6329feee-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/00f874c3e8a49a2b95ade77e16a95cad-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/da056e20d9eeb238e7e3a27a46e40e4e-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/0b732950126ff08b880b8f284e96aea9-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/5241e2b7bde1eb357503463197551253-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/58d6911ffa208f97b5f5c148612df3a7-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/2372c3c1972ed79f243d406a0126bdf9-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/4992addb9e1fbb7929fd984cad423cdf-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/039566d10cfbef910c9cbda419714d2b-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/8784e752192c6f02a8b83b3ddb87b990-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/9ca1a8e44e48d2c3b859dc5bee004593-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/47618fb2787d546dee706900e5cf014d-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/c6aea6834ca676cee1a501868414e870-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/fa6084a3514310012d10f964f919c60d-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/40942b2ce42343ff3ec8811894f0953b-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/cf3b101c219003ef6c528ecbada80cd2-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/82bc266818d1b3cb1959927f9ceab5ff-cc_ft_1152.webp",
+        ""
+      ]
+    },  
+    {"name": "Vancouver Estate",
+      "id": "vancouver-estate",
+      "type": "residence",
+      "category": "residential",
+      "company": "Mvita Syndicate HoldCo",
+      "notes": ["August - October"],
+      "location": {
+        "city": "West Vancouver",
+        "country": "Canada",
+        "address": "690 Knockmaroon Rd, West Vancouver, BC V7S 1R6",
+        "coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        }
+      },
+      "staff": ["Housekeeper", "Security Guard"],
+      "size": {
+        "value": 10400,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 11000000,
+        "currency": "USD",
+        "annualExpenses": 40000
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "5 Car Garage + 3 Four-post Lifts (8 total)",
+        "5 Bed + 8 Bath",
+        "September - October | Autumn weather, perfect escape from northern summer"
+      ],
+      "Garage": {
+        "capacity": 5,
+        "features": [""]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/690-Knockmaroon-Rd-West-Vancouver-BC-V7S-1R6/454790703_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/ade8765522d5fbb247949c7d1a8af2e0-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/84a04d6c3271c33d984f7e684af9a570-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/a07616ed1481cd5f38f7c5b56bebb91e-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/b9b519543e74949f93c37d057b6f3fe8-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/333f141917445a5d0a9bc58f4363a2af-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/7581205005c8880fa68b6cf186bfcf26-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/5a27cfed8ff017b8182e7681d93d2877-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/bc683d58de629952e8f84f55157ec56b-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/58a6e0ea510a17cb403598e11959d5dc-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/55baf87de534b4b9765bb74ecbc58f3f-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/b1cca6f367dbc62ce7bb15780b493f53-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/94e730c362b0faa6fc5c0ea28d040b6e-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/696e3d050c8da9b1f797f219529237cf-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/8d2ee7cf0fa3a6196242af458160d0fd-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/0d16f6a612922b5fd9139f2903b507b8-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/30cb1e7b7665dfa2c226ccf56628e2e3-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/df894cb848af99640e0a655bd27a1cde-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/03398a89358b28731cf671d251d38fc2-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/3ac63e05bb4a0bd5e2a07f46f0f7679c-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/1182053b2b62f8ce8f5f2b113ec39e54-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/b7e4f30a689ffcba5300701bd998e86c-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/fe625bc3285d4a56e0774ee452b407a9-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/97e964ee9b58e77d7f20a17ed7b2294a-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/5928cabb5286b37581a15b60ffc3a225-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/f179d344f8e28d8d7267f804c2ad3d26-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/09b6c85ad15c3123ee7478b7841c76bf-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/0a66ddd3e3fb0174d74803af75f64b8e-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/5d35d18a14090532322abfa7e0fc520c-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/383d1912d26ceb86bc551e4c4785767a-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/05e50c1fdadd30bde83fcf922dc1fdb7-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/3d181a5a26917ae28ae8303bd7c3d95c-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/edc6c92969a2b7cd22bd890dc31a5210-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/5b755be1c99f1520d3e4ac6b82619092-cc_ft_1152.webp",
+        ""
+      ]
+    },
+    {"name": "Mvita Compound",
+      "id": "mvita-compound",
+      "type": "compound",
+      "category": "residential",
+      "company": "Mvita Syndicate HoldCo",
+      "notes": "August - October",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "18205 Keele Street, King, ON",
+        "coordinates": {
+          "latitude": 43.6532,
+          "longitude": -79.3832
+        }
+      },
+      "staff": [
+        "Security Guard x4",
+        "Housekeeper x2",
+        "Driver x2",
+        "Maintenance Staff x2",
+        "Groundskeeper",
+        "Chef"
+      ],
+      "size": {
+        "value": 80000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 85000000,
+        "currency": "USD",
+        "annualExpenses": 2500000
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "$15m Asking price + $70M Compound Build-out by Ferris Rafauli",
+        "246 Acres of land+ 43 Acre Private Lake!",
+        "80000 sq.ft Main House + 20 bedrooms & 30 bathrooms",
+
+        "-- Security & Privacy Infrastructure --",
+        "Security Control Center w/ 24/7 surveillance and monitoring",
+        "High-tech compound wide-security & automation system",
+        "Central command-and-control room with AI threat monitoring and drone patrols",
+        "EMP-shielded data center and secure comms bunker with satellite uplink",
+        "Private police liaison office and biometric-access armory",
+
+        "-- Sustainability & Independence --",
+        "15,000 Tesla Solar Panels & 10 Mega-pack Battery Storage & 2 Cat 1,000kW Generators",
+        "Desalination and water recycling plant for total water autonomy",
+        "Hydroponic greenhouse and organic food production facility",
+        "On-site biogas or waste-to-energy micro-facility",
+
+        "-- Digital & Automation Systems --",
+        "Compound-wide AI home management network with master iOS/Android dashboard",
+        "Quantum-resistant cybersecurity suite managed by Family Office IT division",
+        "Private cloud node connected to Cook Islands or Liechtenstein data servers for digital sovereignty",
+
+        "-- Luxury & Hospitality --",
+        "20000 sq.ft Guest House + 8 bedrooms & 10 bathrooms",
+        "10000 sq.ft Private Cabin + 4 bedrooms & 5 bathrooms",
+        "Private chapel and meditation pavilion overlooking the lake",
+        "Professional recording studio and creative retreat",
+        "Fine-dining kitchen with Michelin-level chef residency",
+        "Guest village with 10 self-contained villas for visiting family and guests",
+        "Wine cellar and rare spirits vault with humidity-controlled aging suite",
+        "Compound-wide in ground irrigation system",
+
+        "-- Recreation & Wellness --",
+        "Indoor/Outdoor Private Pool Hot Tub Sauna Wellness Center & Spa Jacuzzi",
+        "Cryotherapy room. hyperbaric oxygen chamber and advanced medical spa",
+        "Private Gym. Private Cinema. Basketball Court. Tennis Court",
+        "Private Garden & Golf Course w/ 18 holes and private clubhouse with automated swing bay & TrackMan systems",
+        "Hire AntsCanada to help design and build massive multi-geographical Vivarium",
+
+        "-- Cultural & Legacy Features --",
+        "Private art gallery and archive wing for family collection",
+        "Genealogy and family museum preserving heritage and history",
+        "On-site offices for Mvita Family partnerships"
+      ],
+      "Garage": {
+        "capacity": 30,
+        "features": [
+          "Luxury 30000 sq.ft Warehouse & Garage + 30 car capacity",
+          "Private Helipad & Hangar"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": ["Master Control Panel"],
+      "listingUrl": ["https://www.zolo.ca/king-real-estate/18205-keele-street"],
+      "images": [
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-1.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-6.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-4.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-8.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-12.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-18.jpg?2024-05-05_03%3A36%3A46=",
+        "Front View",
+        "https://i.pinimg.com/1200x/e3/ad/5d/e3ad5d2287b9039c44e0a93a850288a8.jpg",
+        "https://i.pinimg.com/1200x/89/f8/a8/89f8a8dddbf7b039281aab4ed456e0fe.jpg",
+        "https://i.pinimg.com/736x/a7/83/37/a7833778be5f81190ceb23a92123cb65.jpg",
+        "https://i.pinimg.com/736x/f3/03/a7/f303a75a33f18f7f3783b74d1dedaaa9.jpg",
+        "https://i.pinimg.com/1200x/28/f3/65/28f3650c857706b1fd4ec09fcfca5815.jpg",
+        "https://i.pinimg.com/736x/2e/cd/2f/2ecd2fc93a179b886ce8a6ac3f584c6a.jpg",
+        "https://i.pinimg.com/736x/ee/19/20/ee19205fd37ad9b355ef68a414f798c5.jpg",
+        "https://i.pinimg.com/736x/b4/7d/f1/b47df1b0565dcb6b420430426266aaa4.jpg",
+        "main house exterior",
+        "https://i.pinimg.com/736x/d0/8e/89/d08e8943569cfa78fcbe7921449ad672.jpg",
+        "https://i.pinimg.com/736x/e7/13/28/e71328a5b390d69c3c5d60d0e8012010.jpg",
+        "https://i.pinimg.com/1200x/e1/f5/75/e1f575a4c7540663c8f521204e26cb9a.jpg",
+        "https://i.pinimg.com/736x/9e/fe/ed/9efeeda36cd383af7dfee776237150d2.jpg",
+        "https://i.pinimg.com/736x/75/41/f8/7541f87b31db4f4621f6e7a1780cb5a8.jpg",
+        "https://i.pinimg.com/736x/bf/8c/b7/bf8cb7dfe6bdc3a349e28c04adf204e5.jpg",
+        "main garage",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffb%2F10%2F41%2Ffb1041823ea7d9ecf27352c409815cdc.jpg&f=1&nofb=1&ipt=6c24a4192db73968a2edab8bb62d18e0cbc172fb8fdc5fae2d163662b123b573",
+        "https://i.pinimg.com/1200x/22/a9/92/22a992f06b4cfda03d84f240ec771f24.jpg",
+        "https://i.pinimg.com/1200x/e2/dc/44/e2dc448c6e1466f857a21c13baf54205.jpg",
+        "https://i.pinimg.com/736x/8b/7f/cd/8b7fcd1c5881fbe7829ca884bf349d9a.jpg",
+        "https://i.pinimg.com/1200x/54/d1/6a/54d16abc94f80b1f2f10a00b14e7e9f2.jpg",
+        "office + Library",
+        "https://i.pinimg.com/1200x/98/b0/fc/98b0fcfc3288eab2fae0c13e891707d4.jpg",
+        "https://i.pinimg.com/1200x/58/5d/86/585d86287f59f4e3c1012dc8f3c70c00.jpg",
+        "https://i.pinimg.com/1200x/66/93/ff/6693ff07533cf8cf6f3b28216a49c416.jpg",
+        "https://i.pinimg.com/736x/13/b0/e5/13b0e5aee9bc84d2a6cff4aa16f8eeb2.jpg",
+        "https://i.pinimg.com/736x/7d/35/2e/7d352e98fa6410bdef67240caf784a34.jpg",
+        "https://i.pinimg.com/736x/0d/12/5f/0d125f777a13d030010c82210505b5b6.jpg",
+        "Great Room",
+        "https://i.pinimg.com/1200x/6d/f4/0b/6df40bb7b3cb462344680b8d7a96fe39.jpg",
+        "https://i.pinimg.com/736x/e8/b3/5b/e8b35b1d1ee5d7c40eca3f5446256041.jpg",
+        "https://i.pinimg.com/1200x/9a/ca/72/9aca72bcf4d2e5adbe76a18c4f2ddb23.jpg",
+        "Interior",
+        "https://i.pinimg.com/1200x/cf/ab/48/cfab4851fba73cfcd16d413dd64b9a11.jpg",
+        "https://i.postimg.cc/5ydNdYJ6/3509971287408094341-1543963709.jpg",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fskift.com%2Fwp-content%2Fuploads%2F2023%2F11%2FATR-AWAKEN_ElementsRetreat_MR-1-1-scaled.jpg&f=1&nofb=1&ipt=998a35055c8ae831534d97a88b88fdc903740d2828133e32b7adc0812bf7074b",
+        "https://i.pinimg.com/736x/66/34/d9/6634d9653c8092da080f41f66c7baa83.jpg",
+        "https://i.pinimg.com/1200x/ca/c3/68/cac368fd6399ca2aacb02bb101d9cd64.jpg",
+        "Master Bedroom",
+        "https://i.pinimg.com/1200x/de/31/4d/de314dbf6447645a781feb97963a7a22.jpg",
+        "https://i.pinimg.com/736x/10/07/1f/10071f993f99dfca6bf03371c65939f2.jpg",
+        "https://i.pinimg.com/1200x/0d/d3/99/0dd399df6061dc529bf133687d8627ca.jpg",
+        "",
+        "Guest Bedrooms",
+        "https://i.pinimg.com/1200x/9b/15/57/9b155755d75e1f04e90162e8d459fb81.jpg",
+        "https://i.pinimg.com/1200x/2b/1a/5e/2b1a5edc8d8f9c396de96f7cd1d923b8.jpg",
+        "https://i.pinimg.com/1200x/5c/07/2a/5c072a24613b2cf6bbb7320cd00cdf11.jpg",
+        "https://i.pinimg.com/1200x/c8/cb/6b/c8cb6b54b9bdb1cc63832566f800b50e.jpg",
+        "https://i.pinimg.com/1200x/da/06/01/da0601afca4ce7503d8524894919d24e.jpg",
+        "https://i.pinimg.com/1200x/cf/11/c9/cf11c9cadef9c02ff74e0006d836ea38.jpg",
+        "Lounge/Bar",
+        "https://i.pinimg.com/736x/0c/63/cf/0c63cf951563da29bd807cee07713601.jpg",
+        "https://i.pinimg.com/736x/3d/d9/16/3dd9160c117f17d41a0af2404c2cef5d.jpg",
+        "https://i.pinimg.com/736x/d6/f2/ac/d6f2ac41e08a5c87854abae4ed2f9dcc.jpg",
+        "https://i.pinimg.com/1200x/6b/54/1e/6b541e7b2e85056a8b12f8321432944b.jpg",
+        "https://i.pinimg.com/1200x/df/ae/6f/dfae6f41c9c110089a0639c7c486d41d.jpg",
+        "https://i.pinimg.com/736x/92/6e/46/926e461c10686c78ee7c7ecf3db31174.jpg",
+        "Washrooms",
+        "https://i.pinimg.com/736x/b9/9e/d6/b99ed6adc1e21a7f73ccbb3ab3685cfb.jpg",
+        "https://i.pinimg.com/1200x/ca/a4/ce/caa4ce9ce3fe5982a42a830424530cf2.jpg",
+        "https://i.pinimg.com/1200x/ff/26/79/ff267956b5e0a543b96275ca27115246.jpg",
+        "https://i.pinimg.com/736x/c8/41/a6/c841a69b6346f62b77754657c42bab15.jpg",
+        "https://i.pinimg.com/1200x/01/a8/37/01a8378678805b495ad172a4a598e844.jpg",
+        "https://i.pinimg.com/736x/70/72/28/70722878dfb39b8353e3f42cf3af572e.jpg",
+        "https://i.pinimg.com/736x/a7/31/9a/a7319a3a3de013466adb95f0fe65858f.jpg",
+        "https://i.pinimg.com/1200x/10/b2/80/10b280ec89a09ec3f2ce75153c706c9d.jpg",
+        "home entertainment spaces",
+        "https://i.pinimg.com/1200x/24/f5/fd/24f5fd822720c1ba730b04af445ed0eb.jpg",
+        "https://i.pinimg.com/1200x/8f/ff/d9/8fffd93d6a6109e84ce418f655241608.jpg",
+        "https://i.pinimg.com/1200x/6e/bc/20/6ebc2070be6bd93b0f3cb74e8378a55f.jpg",
+        "https://i.pinimg.com/1200x/ab/e1/b4/abe1b41a2a3e5359369bebcd1f7348a6.jpg",
+        "https://i.pinimg.com/736x/d8/16/b3/d816b394a98d22f022afd54e18f8d29b.jpg",
+        "https://i.pinimg.com/736x/f1/2e/3d/f12e3d652bda167e374deb229a8f3a9f.jpg",
+        "Outdoor Entertainment Areas: Pool, Basketball Court, Tennis Court, etc.",
+        "https://i.pinimg.com/1200x/72/e6/ab/72e6abad854640a5153987e4312aa01c.jpg",
+        "https://i.pinimg.com/1200x/1c/64/f1/1c64f1d424cf2a8c3c030412e887b9cc.jpg",
+        "https://i.pinimg.com/1200x/dc/1b/f7/dc1bf72bbd44aa303ae47c0ee84e17a2.jpg",
+        "https://i.pinimg.com/736x/80/e8/f7/80e8f7ca37540db593d25b39cb6d9f34.jpg",
+        "https://i.pinimg.com/1200x/59/f4/d7/59f4d77ea1eba90f1fdbc57b7d2ef695.jpg",
+        "Guest House - 1",
+        "https://i.pinimg.com/1200x/16/40/ef/1640ef44868dda5a9217003acb99a058.jpg",
+        "https://i.pinimg.com/736x/04/7d/3c/047d3c584cd44355066e20c62884e44e.jpg",
+        "https://i.pinimg.com/736x/4b/14/bb/4b14bb39e35eea37ed07838f2f3de074.jpg",
+        "https://i.pinimg.com/736x/63/31/ba/6331ba46f151a6b4bb17bf6e694c07fd.jpg",
+        "https://i.pinimg.com/1200x/68/b9/c6/68b9c6e9c4bf7a0bd0939d12306b83d9.jpg",
+        "https://i.pinimg.com/736x/76/32/f9/7632f98290b4612e6a0f88018d9cb019.jpg",
+        "https://i.pinimg.com/1200x/e0/f4/1c/e0f41c23aac10f688a72d9c1eaaad987.jpg",
+        "Guest House - 2",
+        "https://i.pinimg.com/736x/d4/52/da/d452da0b4fd53d7fcce8dfb515e0ca45.jpg",
+        "https://i.pinimg.com/1200x/55/b9/89/55b989d0a00e1b92dbb5ae1530f23b8a.jpg",
+        "https://i.pinimg.com/1200x/03/c7/b9/03c7b9987f8073e13052ca9c70de21de.jpg",
+        "https://i.pinimg.com/736x/d1/0c/a1/d10ca171c1111a6ed54418b730db59d6.jpg",
+        "https://i.pinimg.com/1200x/8d/ed/a5/8deda5643755287570848a8408a4a1fc.jpg",
+        "https://i.pinimg.com/1200x/c7/54/45/c754453a13643c58cd52a76d10721244.jpg",
+        "https://i.pinimg.com/1200x/ad/c8/ae/adc8aee9c5c60e281d381bd6abf469d7.jpg",
+        "Smart Greenhouse Vivarium Farm",        
+        "https://i.pinimg.com/1200x/e3/15/72/e3157245cf47096f81b471cf2d3b7515.jpg",
+        "https://i.pinimg.com/1200x/89/6d/16/896d164926e665975f7bbb896702ad76.jpg",
+        "https://i.pinimg.com/1200x/94/95/a2/9495a24a8b259e9fe0b536719a26fb83.jpg",
+        "https://i.pinimg.com/1200x/b0/0f/e4/b00fe4336cece6b9ec7d9aec22b61561.jpg",
+        "https://i.pinimg.com/736x/2d/e3/3c/2de33cad2e110beb5c8272ac0c26a84c.jpg",
+        "Gardens",
+        "https://i.pinimg.com/1200x/f9/0b/01/f90b017fe4ce5e75a53ec102f69c9024.jpg",
+        "https://i.pinimg.com/736x/95/68/95/956895eccb8b0e82e7f081cfb2205a79.jpg",
+        "https://i.pinimg.com/736x/88/97/01/889701bd2f7e2b66818550a5b9c951fc.jpg",
+        "https://i.pinimg.com/1200x/83/94/d2/8394d26b08cf1a877a9655ddfa5028ee.jpg",
+        "https://i.pinimg.com/736x/c5/3f/33/c53f338b5a55cf167270bbb239b1e424.jpg",
+        "https://i.pinimg.com/736x/db/ea/65/dbea653946ed30cc3dbff363d51f153a.jpg",
+        "https://i.pinimg.com/736x/19/72/c4/1972c4ccc7cc6e0f7908f3387102d2b3.jpg",
+        "Treehouses",
+        "https://i.pinimg.com/1200x/7c/1d/1f/7c1d1f81043d99b308538aa513116a35.jpg",
+        "https://i.pinimg.com/736x/cb/fc/46/cbfc4642ad028b930ab92bb6c654fb52.jpg",
+        "https://i.pinimg.com/1200x/fd/2f/be/fd2fbe93cf469b6616fde45e80c412c6.jpg",
+        "https://i.pinimg.com/1200x/51/74/a4/5174a484b8fddc6282d332995f9bfe39.jpg",
+        "grotto",
+        "https://i.pinimg.com/1200x/12/36/66/1236662e486134b850945c82d5d288a8.jpg",
+        "https://i.pinimg.com/1200x/9d/35/c1/9d35c16ce23a455d1bb846f3b50ff24f.jpg",
+        "https://i.pinimg.com/736x/32/79/d1/3279d1ba1572cbc6a38b3b2d09392d6f.jpg",
+        "https://i.pinimg.com/1200x/1b/39/a4/1b39a4718092f1ae929c5bc2816948e6.jpg",
+        "https://i.pinimg.com/1200x/82/47/b5/8247b5b7f8febdc88d674854f9597dd1.jpg",
+        "https://i.pinimg.com/1200x/37/dd/85/37dd85d364a5bc0e304838549bed5467.jpg",
+        "Guest Cabin - 1",
+        "https://i.pinimg.com/736x/31/b1/46/31b146aea9a584580d424a2ea6667fb7.jpg",
+        "https://i.pinimg.com/1200x/f1/5b/6e/f15b6efc3c2e96f3f168e04e5e616187.jpg",
+        "https://i.pinimg.com/1200x/f1/5b/6e/f15b6efc3c2e96f3f168e04e5e616187.jpg",
+        "PowerPlant",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Tesla_Megapack_set_of_4_with_solar_canopy.webp",
+        "Heli-Pad",
+        "https://i.pinimg.com/1200x/21/a6/48/21a64857b62a2ed1d2217d9d1c801b69.jpg"
+      ]
+    },
+    {"name": "Spain Estate",
+      "id": "spain-estate",
+      "type": "residence",
+      "category": "residential",
+      "company": "Mvita Inc",
+      "notes": "Villa Enso",
+      "location": {
+        "city": "Marbella",
+        "country": "Spain",
+        "address": "Marbella, Spain",
+        "coordinates": {
+          "latitude": 36.2879,
+          "longitude": -5.295
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Pool Maintenance",
+        "Concierge"
+      ],
+      "size": {
+        "value": 3500,
+        "unit": "sq.m"
+      },
+      "value": {
+        "amount": 38000000,
+        "currency": "USD",
+        "annualExpenses": 280000
+      },
+      "features": [
+        "Spanish Holding SL structure",
+        "🇪🇸 Spain Golden Visa",
+        "🛏️ 16 Bedrooms, 🛁 21 Bathrooms",
+        "🚗 15 Car Garage",
+        "IGY Málaga Marina - year round M/Y marina",
+        "May - 1 Month | Spring weather, marina season start"
+      ],
+      "Garage": {
+        "capacity": 15,
+        "features": ["Display only selected cars from Mobility Page"]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.terrameridiana.com/ref-TMXV1857_villa-la+zagaleta-benahavis.html"
+      ],
+      "images": [
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHeMrM8uVzohII1EFBudFu8YF_AfTDkrtpu9Wv53D_EkMamgXoAMIC_YOBo1dWk7Yy5LrYLdC33GHYTHe2p5DMk9kC0t45F1MBz0sBRROHlmAJuTRTo4J3tcYdQQSSJ4QvXtJQhpSJmdX4TYK3o~SfE2tGzdmO68j2~vo7hcxawK3ahXU5BrW2ptn5UZCzCbq2a3XT_i14o27r9mlSz66vi48v~E7RVzQ--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHQGWl_A6hjumlam8eq9uhOXQxX1Td_5ZV24UkxnLLAEEtrA4gBtUk9wueFBQAXyDBUfkCC07Mp2E5UqerTA~PcHOP9gCPkY0NOUSJ429TMXNL1JPsTiQBYyltrullZWfX2NmCSoqTElqmGlTE2JQIuzab4nEoDR72ftnM2q4FF3ZEPoI69ed1Eo763k~xtKtIqPnGff1QVaFR0hSygmzzHW2Z1kqAdCg--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbGDbKw8nUDkidR2_KUEERtqEcjeJGKm_dNjNFYDU88~IoX9OtmQOEFwABgq9z6734BzJ_~OMhZe9o2ffsidYoqNrImM0Oq8hNS~c0yHfGYvaSXFGMLZmBDnmKLoczzcCeYUe~_uMkrIFbsN4pq0DusQL3uQkmDeombvPTapfBTBwL0owWMIm_ww~2H5zbbiRN3rARLTkUuMz6LzCr2w5WgGbANfatCc~A--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHUaFf7Jf7YIKz5FiQnd2bjQZuv7SJ_~W2uWQ9kdeWIHDRPMMYru1~PvbbTiR2qrvM6JcqCrSXM1r3XnRvgKHZb5GE2bUogAgAf8FUzF979qD_UNrJem4qGEgVJlp5JyYc0GWfpAhY3wU5a257dzeIzs1pvANJqDYs1RMEOa2fXUIIr3_6jKFJ0ESCxhU1qkbtlM8ju2dvdw5elmqS4Ebz5EiXkdL8ueA--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHQSPRSR8O1FFrkbjsy2PbRopwHAK4XvCR1m_hjCU9ESs~12DeFuXG5EKPAl6cnKeUL422PS3VBiVrCmJpHwBhOSE4Xj4ORLi7sspDFGAu4RzbpBDXOlWsYt~UEHtqTAJLpngMDMh~9NcOdbqYceRpoM5Gc5aW5lkJ0w9lM7gZc7Q3B2nh~N7Pys_ibSZux_30LJSfVnkS4aFOq3bLqZLWfehohwVxMUg--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbGEW16wcA_WVSCIH8AxdktugZQMeACMLH9us7jRso04WKxH3tfzVU9vivyzWHdiYrYw9KUcxwrgejgwdtaUqLIY6mwzguPWY9e48hug4i1twumNpxVw8WkIDxLlzQqQJl5Fy3d3QOaVDA~uqos39_oVL~NesAnVkphkM_gG0XmNYm5y00Dh5AQ1qqS7s67gBqYTwhj5MJjbCIadVV9UIBbE0TwwyzVg1w--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHWY0C3HfeKs30CUP7amztsd2976_BxROtr5WhLaGSNeV34Jzh1Ae_iT1vgjznxljKy8kb9jT_DMNKg_OLPIuGLiMD29LErIG3KMAqnsffLLqtd61WuGt1mBjmsSspvItj~GPRXqGATsRJr8rSqthJPzhNaYaJWssPZqavJ~_Is1g_Zk8c~vBbotxHJSI9JGOVG9BhcPfeuJqqa2zk6E3_FChNpW6xmCQ--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHWM27HB4IDQzRArpR~FLCzyVzCnxKb87pEOWT8ixbD_FEa7yshYbiiEqcVwfegSTiLPSUClUeI~Uw6~G2C6eXqAvA2R5jhstKt9fuAWKeIrVfRmcC5WXzGpZC2kaFa~BoHA_5EhwQ_1BbhtNkx~v6K25~1MvschWSl_BDCXwIBOmXRPgZVZTHfw7rd0k3RQzgU6noBY7EeQHtnQtEXjJ2UiMnOhHBx5Q--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbGClkpA8N5vNgV_q5x9kQXH8LiTHUvNTaMbhQn5xckhptu7DWMgXVUxjsKKsLx7avY8pI8BW2NnzsMdM7ehnuqrLoHpp9OqirMgwKCRi195X33XJAvYW2JbcdklJCB6GVU7AfQMDAOmourZrya2tC9DbInTAs~cUwoEIsidE6rhziWfABLe9fClbzFDv2pvUkwerlt1PDuvl0LjkNTdG1vmJ9YXjsj3JA--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHfr7yZ7Pkd3u7LZQ8kk13NqSHx7YvwQmbyxUKHtNYr0v186W4n5_Hn1debT6L~bVPRpHXQkAts6duN8OTRIW6rRuVJcAV6HTzudNWEE2cmLgHPzEFt2UpIz44a_TjIoC4dyBwVwozFTkD7lCMawfiithI1~PgG59ZbhawqPoQ86BqqTW3goeJkyH6gOiGT9CwMo~En7CF4WSX_8XTFJ2JnV6oFBDDEIw--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHUO_1eStelqRrYZLtH_bwGH1EJghGbTJbM1_BdTzdQOnaRA2ZUg6Iv3fDi6~e1M_7StqvMtuCZ037aSj5ACuyXwOpM8tqKHtwsgCrgNLwoyUYTVvVkCcSqaOLYRIqSRtDO1mRV5aMaKGfKp0Mr2C9NFcwfSHa8m3qaPgGIxrTfwUkrTvOee8UZK83mjVbcuBbdgKyndZbAQRilwzTL0GNRDGYyr_mbKw--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHUb5vDNSPSSXrYnFNgWe8KFPF9aetSUDA6mK4HnmIYIKRr4x4cawoK6ZPguUMH3IP1jckzWG3R_pve0KIhpYlwqvLzM4JolCCRjfyCz6dDR8kq_JVjhy8dbSpIFogh1SIjDyzmRyiZHcwInQJOwy3ujaAE5y8c5a8z9PxhhEqjt30GCo9k82IcmPOanQ_UxDYvt4wcVdO2APPlSeELC8ZhWaRrcOlV6g--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbGEWvOAjuguGwj3gB_ktp6D6bwCRLkhFt4xVQ9iTHbbz6FU8Lul51mnnl7DpR~5dZF9kWf67ZG7d9lc9dJn7iP9RdLXPgfxyW20Y3Lmm8eB01xqyhZQBEKPNPotsw7LJEivl9L5KaNpECcwuXQL0O9caVwANsDPRY7q8nlNhkDVrmefBQ0Lk3y3M0hbO9J5j3VZ25KzrzJqF8wMP_dUFCnEsJzgy3B1Zw--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHQSK4uYwcestNHGsSHOAjs0SnheziwxcejN7Bu~6mHn~4JRcqKtPIAr5L3QBMTiMsRHbcdkOkUJpYpIc3St~STbFX9TMXZVmw7alu1JRNxuyRvsMn8NZYjv0x9uB6d1P8LIgbeXyTZ3YUPdMzrK59UZG4CGAJnBTIX5Tjk14_n14a9R3sF1Ocizi9lzYOOxgx~wNxszz8DrvyKeyeDJmKw0ShJ9aV8Lg--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHXTH9k30EJYzywOJcY6JswanGE_kLF1ATlrHmmG77hwTP3B109rcDMHCvg6SpsG~WYaCyPsseV5wN7AutsQr4sO6MpQWlfI1HPTOZFQAtpdSM2BHj9jxk94vkmMnxYxFrlytBNSj~UW8hQJxlP~90MDXK2G6Q7iSUFXQ6VtyQe22OFKE0B8sjepIoD1eDbgfijqpdzL4n_IEQaJ2EpFdM0aBmTMumCpw--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHUaxiXU9O4cvCRfJxGDEpefCM7aaZEEEeFRZWz8~7Pp7gWkD5xtP0BM2795jEIeG2fzWD~EPMXR_2uwIf2M6wkbuGd0P~A8nvptV499rEd0~lpzxSEIyn5el0zuNvIOd5e30G7vA5SI5ZOasAkel4urmmZkNme4wJtnRGmDb7dqMcEje1Dqm1pG4k~o6a_SREH3otpJBuZZ6qlDF3vdwq4JwEJE1dqzw--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbGEXlcHSC6jh31KaL5Ku3G44rZ0rQYfQskzzjf7Oa_ZqLY9dNkgeObSgwdoY620SPcztX73MlOOzM9TxSBPZSjIw3s~AKvWZrZrGrZHBwz6iIQ4vJ5PZYaeF5Dpkfsk5_Ev7OxaBeIM~o8AFIl4WGTheZuJHABTz43Hj2v28S51LwQLOwTWC7mnI_0XyqDTwUlt5r56NHXYW6f15glhyMa2_RKK321kgg--.jpg",
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSaC8Y5L~JfyHds8FHQDbHSvbfB0z4YoPYUOiDWxwE37wVJ2oFCL3wpQQwVKsL8rHmR6nVd8SNYcwvm7sFfDa7K~xp_KkQJd2Ch4f1VigdvGcPHBeRgoTcKZ1l~aJmSIEhmDbf_UCOH_rX9XATD8euOG_5JQ~c_ZCPhdOSV1Efd3WUkuFnKa2J2QaCbBbQuPIUgjDKKUe002tyyx1DLqlXb34MvBcv_UwwtKW9Ac4pTCXg5cnXz~Q--.jpg",
+        ""
+      ]
+    },
+    {"name": "Monaco Estate",
+      "id": "monaco-estate",
+      "type": "residence",
+      "category": "residential",
+      "notes": "Tour Odeon - Complete Renovation & Restoration Planned",
+      "company": "Mvita Inc",
+      "location": {
+        "city": "Monaco",
+        "country": "Monaco",
+        "address": "",
+        "coordinates": {
+          "latitude": 0,
+          "longitude": -0
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Concierge"
+      ],
+      "size": {
+        "value": 12648,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 130000000,
+        "currency": "USD",
+        "annualExpenses": 450000
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "5 Beds + 6 Baths",
+        "7 Car Parking Spaces",
+        "June - 1 Month | Summer weather, Formula 1 season"
+      ],
+      "Garage": {
+        "capacity": 7,
+        "features": ["Display the actual cars from Mobility Page"]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.lorenzavonstein.com/en/monaco-sales/sale-duplex-8-rooms-monaco-la-rousse-saint-roman-98000"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/9ad466f1-6034-459e-a9d9-690a91e5498d/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/91c18261-4458-4998-824f-50188f2a8527/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/c519ad51-d5fd-40d3-ab4a-978fc884232b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/a231a041-2831-4a64-9d8b-1c5233c63029/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/c3115d36-7c53-4df5-9154-ff51868c4415/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/36e0311d-aeae-4b67-a8c9-51d2e89774e0/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/105f58ce-8119-4468-ac00-29d2fded60bb/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/b224e23f-4ad8-4996-82b9-9c389fd65d98/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/47f1b8ce-56dc-4a67-9aad-4275aa35f83a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/43d41518-1ce0-4f87-a573-158c106f29a2/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/5761c4d5-dbc2-454e-ace5-e7b95ff1f2c8/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/57a565ca-63b6-4d7b-9fc9-68592e148202/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/568a799d-c34c-42e7-8796-68de1001d1bb/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/7f492e30-344a-4d26-b8f1-6e83bf98696b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/03/07/12/10/53/1ca285d6-ff5c-4a41-afaf-9344d21fbbb1/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/de4ec00e-c671-4b92-bf31-0fc3f1c8a934/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/70ebd70c-04e8-4045-978f-fd3e7418e63c/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/30/15/08/26/d5103f59-721a-4616-b101-10d5545b7d82/je/2200xxs.jpg"
+      ]
+    },
+    {"name": "Brazil Estate",
+      "id": "brazil-estate",
+      "type": "residence",
+      "category": "residential",
+      "company": "Mvita Inc",
+      "notes": "",
+      "location": {
+        "city": "Sao Paulo",
+        "country": "Brazil",
+        "address": "Santana de Parnaiba, Brazil",
+        "coordinates": {
+          "latitude": 43.6532,
+          "longitude": -79.3832
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Pool Maintenance",
+        "Concierge"
+      ],
+      "size": {
+        "value": 23300,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 22000000,
+        "currency": "USD"
+      },
+      "features": [
+        "Land Trust + Holding Company structure",
+        "6 Bedrooms, 9 Bathrooms",
+        "+9 Car Garage",
+        "🇧🇷 Brazilian Investor Visa Program",
+        "August - 1 Month | Brazilian winter, perfect escape from northern summer, dry season"
+      ],
+      "Garage": {
+        "capacity": 9,
+        "features": ["Display only selected cars from Mobility Page"]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Audio/video systems",
+        "Smart locks",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/santana-de-parnaiba-brazil/ultra-exclusive-luxury-mansion-15492625"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/fc7bb3e5-a3a6-4bde-9294-aa147f4b1784/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/73390c9a-19a2-4641-9f57-722a367e4a53/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/20b82094-f78b-4ba2-b624-07233d5b619b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/f8f9d75f-a598-42a0-91b0-202be9980c5a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/917fd43a-2cce-42c6-b8df-f1e6d8ecb9de/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/0d1c1d24-7fae-4029-ba01-b5752927d057/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4b7b3a0e-15b3-4ca6-9eab-43e45b65dc3d/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/bf2b22fc-228f-42bf-9d0e-ba6b3df89d9e/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/bafa509e-0296-4565-a34b-d2376e1c722b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/b491cf58-82d7-4768-b5a6-dc35cc53c71b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/38a43de2-ac6a-4ae2-9c10-b16d9d136064/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/6118d593-4cee-4055-bccd-62d6437f7356/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/d006b6f2-b72f-47c6-b767-40bcdc7e4c1e/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/6331cf80-bd23-47ba-a0eb-0b02cd3baa12/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/1dc8e1f0-fcf7-4bcf-b0fa-3d25f86aa2ec/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/52d42782-8b43-4691-a3f3-06c5456f3f34/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4a32f808-f2ca-4e88-8b8c-8a1f42466991/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/d1929f24-ac1c-4947-828f-c3dfecd934c6/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/7ab8a238-b8e4-4956-8939-9be4a082369a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/7b8d4784-c514-4494-a10d-ab19f8c1dcef/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/35a31b7a-7e4c-4954-bbb6-1d6b4122f7ef/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/ab2b3b89-47d7-4a5d-adb1-a4c8efbf7f54/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/3a4f1a72-db7e-4747-b01a-36fd30b27dff/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4335b516-356b-4e3b-a870-ff35d0041218/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/a374bc89-50e5-48ac-acad-f960994c9750/je/2200xxs.jpg"
+      ]
+    },
+
+    { "commercial Properties": [] },
+    {"name": "Mvita HQ, Dubai",
+      "id": "mvita-hq-dubai",
+      "type": "facility",
+      "category": "commercial",
+      "company": "Mvita Capital HoldCo",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "address": "Dubai, UAE",
+        "coordinates": {
+          "latitude": 24.4539,
+          "longitude": 54.3773
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Receptionist",
+        "IT Support",
+        "Maintenance Staff",
+        "Cleaning Staff",
+        "Facilities Manager"
+      ],
+      "size": {
+        "value": 400000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 0,
+        "currency": "USD",
+        "annualExpenses": 300000
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "$4.7 purchase price + $5.3 renovation & upgrades",
+        "Corporate Mega Headquarters",
+        "Mvita Family Office HQ",
+        "Mvita Family Trust HQ",
+        "Mvita Ventures HQ",
+        "Mvita SportsEnt HQ",
+        "Mvita Group RE HQ",
+        "Mvita Digital Assets HQ",
+        "Flood Proof",
+        "Executive Suite & Concierge Office",
+        "Security, Surveillance & Armory Zone",
+        "Vehicle Display Gallery",
+        "Supercar Service Bay",
+        "Dyno & Performance Tuning Zone",
+        "Detailing & Preservation Bay",
+        ""
+      ],
+      "securityLevel": "maximum",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Power management",
+        "Environmental monitoring",
+        "Surveillance cameras",
+        "Data center automation"
+      ],
+      "listingUrl": [
+        "https://www.propertyfinder.ae/en/plp/commercial-buy/warehouse-for-sale-dubai-dubai-industrial-city-saih-shuaib-4-12591029.html"
+      ],
+      "images": [
+        "https://www.propertyfinder.ae/property/68a805dfbe01da6746fa141976a3380e/1312/894/MODE/48b679/12591029-3b37ao.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/488bffe2d3bece2f88ba0e53a77e9337/1312/894/MODE/b22eb7/12591029-0e88co.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/005e608aa442efa6462935ada057aefa/1312/894/MODE/18b432/12591029-d80efo.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/124afa2f7e827346c340adde141638eb/1312/894/MODE/8c1591/12591029-1fcf9o.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/fe61ff043177797a73f55e947799b05b/1312/894/MODE/1d6eef/12591029-d1507o.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/5eff573bcc9c3a2c2c32360a1b4c745e/1312/894/MODE/b2752b/12591029-0f7deo.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/69dec19e5d8f79b6f81f3a34928d427a/1312/894/MODE/bccd43/12591029-45c0ao.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/2b8541df7bc02673cda30a4fcf484335/1312/894/MODE/a1908b/12591029-49f82o.webp?ctr=ae",
+        "https://www.propertyfinder.ae/property/2c6c3acefa92f6353953f66168080f1c/1312/894/MODE/d6b31a/12591029-6e6dbo.webp?ctr=ae",
+        "interior",
+        "https://i.pinimg.com/1200x/72/7d/5f/727d5f4b6f5a52da1f1ff7a9ba842fc7.jpg",
+        "https://i.pinimg.com/736x/d1/b0/a1/d1b0a1f9df920f832580540f030fb85e.jpg",
+        "other",
+        "https://i.postimg.cc/zfYxmYrc/Mvita-HQ-Abu-Dhabi.png",
+        "https://i.postimg.cc/4yGKZwdZ/Mvita-HQ-Abu-Dhabi-2.png",
+        "https://i.postimg.cc/zfYxmYrc/Mvita-HQ-Abu-Dhabi.png",
+        "https://i.postimg.cc/4yGKZwdZ/Mvita-HQ-Abu-Dhabi-2.png",
+        ""
+      ],
+      "notes": [
+        "Mega Headquarters for all Mvita Family Offices, Entities, and Holdings."
+      ],
+      "certifications": ["Highest Security Certifications"]
+    },
+    {"name": "Prestige Auto Gallery",
+      "id": "prestige-auto-gallery",
+      "type": "facility",
+      "category": "commercial",
+      "notes": "Private luxury automotive gallery, storage facility, and authorized service center. Where automotive art meets legacy. Invite-only concierge facility for elite collectors and supercar owners.",
+      "tagline": "Where Automotive Art Meets Legacy",
+      "company": "Mvita Capital Investments Ltd",
+      "location": {
+        "city": "Vaughan",
+        "country": "Canada",
+        "address": "Vaughan Auto Park, Vaughan, ON",
+        "coordinates": {
+          "latitude": 43.8561,
+          "longitude": -79.5094
+        }
+      },
+      "staff": [
+        "Security Guard",
+        "Facility Manager",
+        "Gallery Curator",
+        "Service Manager",
+        "Master Technician",
+        "Authorized Brand Specialists",
+        "Exotic Car Technicians",
+        "Classic Car Specialists",
+        "Detailers & Preservation Experts",
+        "Customer Relations",
+        "Event Coordinator",
+        "Concierge Services"
+      ],
+      "size": {
+        "value": 60000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 0,
+        "currency": "USD",
+        "annualExpenses": 850000
+      },
+      "features": [
+        "Private Auto Gallery — Invite-only showroom",
+        "Hypercar & supercar display — Ferrari, Pagani, Bugatti, McLaren",
+        "Classic exotic collection showcase",
+        "Climate-controlled luxury storage vaults",
+        "High-security seasonal & long-term storage",
+        "Authorized Service License — Ferrari, Lamborghini, McLaren, Rolls-Royce",
+        "Ferrari Classiche certified maintenance",
+        "State-of-the-art diagnostic equipment",
+        "Paint booth & restoration body shop",
+        "Premium parts inventory & warehouse",
+        "Curated events & private viewing experiences",
+        "Product unveilings & brand launches",
+        "Brand collaborations — Hermes, Richard Mille partnerships",
+        "VIP customer lounge & viewing gallery",
+        "Rolling display walls for collection rotation",
+        "Individual climate-controlled compartments",
+        "Battery maintenance & preservation systems",
+        "Specialized exotic & vintage car expertise",
+        "Vehicle art installations",
+        "Proximity to Ferrari of Toronto"
+      ],
+      "Garage": {
+        "capacity": 80,
+        "features": [
+          "Display actual vehicles from Mobility Page",
+          "Climate control & humidity management (40-50% RH)",
+          "Individual secure vehicle compartments",
+          "Rotating gallery display system",
+          "Seasonal vehicle rotation management"
+        ]
+      },
+      "securityLevel": "maximum",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation & climate monitoring",
+        "Lighting control & gallery ambiance",
+        "Security system integration",
+        "24/7 surveillance & monitoring",
+        "Vehicle tracking & inventory management",
+        "Fire suppression systems",
+        "Climate & humidity monitoring",
+        "Access logging & visitor management",
+        "Gallery lighting systems"
+      ],
+      "certifications": [
+        "Ferrari Authorized Service Center",
+        "Authorized Exotic Brand Certification",
+        "E (Employment Industrial) Zoning Compliance",
+        "Vehicle Service Facility Approval"
+      ],
+      "listingUrl": [""],
+      "images": [
+        "https://i.pinimg.com/736x/36/ae/b9/36aeb979600adc2e0058a64b861ba29f.jpg",
+        "https://i.pinimg.com/736x/f3/67/0e/f3670eef28195ce972cfa71cb05c7a23.jpg",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.lunas.pro%2Fwp-content%2Fuploads%2F2024%2F06%2F3d-aerial-view-car-dealership-exterior-visualization-4x5-1.jpg&f=1&nofb=1&ipt=e54c2652616c3a9c9b4ca609a8f675a2c2b6e7939ca569bd49a5ad266cacda30",
+        "interior",
+        "https://i.pinimg.com/1200x/78/ef/b1/78efb17fc0c500001c080257f988da5c.jpg",
+        "https://i.pinimg.com/1200x/ee/c3/5c/eec35c1fde122c41e0d9a7a81cd0760d.jpg",
+        "https://i.pinimg.com/1200x/65/e1/af/65e1af6ca2eae166c9576c1883f749e2.jpg",
+        "https://i.pinimg.com/1200x/16/ea/58/16ea58e32eb65e8e60da13775fcf5f05.jpg",
+        "https://i.pinimg.com/1200x/e5/3c/a2/e53ca200152c9207654ad7dd3c600f7d.jpg",
+        "offices and conference rooms",
+        "https://i.pinimg.com/1200x/ad/e5/7d/ade57dd8ba9bd1dd72646cb3a260e64b.jpg",
+        "https://i.pinimg.com/736x/5d/8a/2f/5d8a2fbf8bafca2be8749217dfd4c81d.jpg",
+        "https://i.pinimg.com/736x/7f/66/b5/7f66b5653002ccaf7967f3fd4ab08a29.jpg",
+        "https://i.pinimg.com/1200x/12/c8/4b/12c84b3810ea811665187cec1287bf65.jpg",
+        "https://i.pinimg.com/1200x/5e/6c/40/5e6c40555dce093d6e77a6145da6636e.jpg",
+        "Car Storage",
+        "https://i.pinimg.com/1200x/1d/03/c8/1d03c835cbe6fd3c4babc62323ec703e.jpg",
+        "https://i.pinimg.com/736x/07/83/ce/0783ce74eeaa9eb7887ab8992e20a052.jpg",
+        "Workshop",
+        "https://i.pinimg.com/736x/c2/f9/d1/c2f9d105ab1836a844c8b48872d1e157.jpg",
+        "https://i.pinimg.com/1200x/58/77/1a/58771a841380361e0930242897286971.jpg",
+        "https://i.pinimg.com/1200x/05/67/6c/05676c7879451a780f4e1fb6f2d7b1f1.jpg",
+        "https://i.pinimg.com/1200x/54/28/a2/5428a2aa09ffe2b60d22ab7e36826fd8.jpg",
+        ""
+      ]
+    },
+    {"name": "Maison Privé",
+      "id": "maison-prive",
+      "type": "facility",
+      "category": "commercial",
+      "notes": "An invitation-only luxury boutique blending art, design, and timeless craftsmanship. Maison Privé curates limited-edition fashion, objets d'art, and estate-inspired collections — serving as the European calling card of the Mvita Family Office. Located near Spain Estate, it embodies private elegance and Mediterranean refinement.",
+      "tagline": "The Private House of Timeless Elegance",
+      "company": "Mvita Capital Investments Ltd",
+      "location": {
+        "city": "Marbella",
+        "country": "Spain",
+        "address": "",
+        "coordinates": {
+          "latitude": 36.5101,
+          "longitude": -4.8825
+        }
+      },
+      "staff": [
+        "Boutique Director",
+        "Guest Relations Concierge",
+        "Curator of Collections",
+        "Luxury Retail Specialist",
+        "Art & Design Advisor",
+        "Inventory Manager",
+        "Security Concierge",
+        "Event Coordinator",
+        "Housekeeping & Maintenance",
+        "Digital Experience Coordinator"
+      ],
+      "size": {
+        "value": 15000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 0,
+        "currency": "USD",
+        "annualExpenses": 350000
+      },
+      "features": [
+        "Appointment-only private shopping salon",
+        "Curated luxury collections — fashion, watches, art, interiors",
+        "In-house atelier and private fragrance bar",
+        "Hermès, Chanel, and custom Mvita collaborations",
+        "Wine & champagne tasting corner sourced from Spain Estate vineyard",
+        "Art and objet d'art display gallery",
+        "Exclusive trunk shows and brand showcases",
+        "Private concierge and lifestyle management for elite clientele",
+        "Digital twin boutique for international clients",
+        "Architectural design blending Andalusian and Parisian influences",
+        "Mediterranean garden terrace for private events",
+        "Personal stylist and curation service",
+        "Private gallery vault for high-value acquisitions",
+        "Limited edition product launches and estate exhibitions",
+        "Sustainable operations and carbon-neutral certification"
+      ],
+      "Boutique": {
+        "collections": ["Mvita Collection"],
+        "services": [
+          "Private Styling Appointments",
+          "Estate Event Hosting",
+          "Art Acquisition Assistance",
+          "Personal Shopping Concierge"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "RFID inventory tracking and management",
+        "Climate control for art and leather preservation",
+        "Biometric access for VIP zones",
+        "Automated lighting and ambiance systems",
+        "Surveillance and motion sensors with remote monitoring",
+        "Integrated guest scheduling and concierge system",
+        "Energy efficiency and solar-powered climate system"
+      ],
+      "certifications": [
+        "Luxury Retail & Gallery Compliance (EU)",
+        "Sustainable Facility Certification (Andalusia)",
+        "Art Handling & Preservation Accreditation",
+        "High-Security Retail Facility Clearance",
+        "Vault/Safe",
+        "Bulletproof Glass"
+      ],
+      "listingUrl": [""],
+      "images": [
+        "https://i.pinimg.com/1200x/b3/a4/76/b3a476c119da256bf5dbdfd94ccaa229.jpg",
+        "https://i.pinimg.com/1200x/35/9a/63/359a631b9231b4dfda9e73d4ea9f8d3d.jpg",
+        "https://i.pinimg.com/736x/d2/0b/95/d20b9577ce62f9ec02766321006edde6.jpg",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F3d%2F15%2F77%2F3d15779e6413c37fbda61afe6ff4acaf.jpg&f=1&nofb=1&ipt=f1464b957c1223a77ec582bcb415ef227a29139bbcf956c0fa78d0809f55215e",
+        "https://i.pinimg.com/736x/da/5b/e9/da5be91f3294ea8b3fa0900fc45e11b6.jpg"
+      ]
+    },
+    {"name": "Grand Reserve",
+      "id": "grand-reserve",
+      "type": "facility",
+      "category": "commercial",
+      "notes": "Fine dining restaurant, champagne bar, and private cigar lounge with membership access. Designed as Toronto's most exclusive social destination for high-net-worth individuals and collectors.",
+      "tagline": "Exclusivity. Elegance. Experience.",
+      "company": "Mvita Capital Investments Ltd",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "Yorkville District, Toronto, ON",
+        "coordinates": {
+          "latitude": 43.6711,
+          "longitude": -79.3947
+        }
+      },
+      "staff": [
+        "Manager",
+        "Executive Chef",
+        "Sommelier",
+        "Mixologist",
+        "Cigar Curator",
+        "Host & Concierge",
+        "Membership Director",
+        "Event Manager",
+        "Security Personnel"
+      ],
+      "size": {
+        "value": 20000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 0,
+        "currency": "USD",
+        "annualExpenses": 1200000
+      },
+      "features": [
+        "Michelin-inspired fine dining",
+        "Champagne and rare spirit cellar",
+        "Private cigar lounge with humidor lockers",
+        "Members-only tasting rooms",
+        "Live music and curated entertainment",
+        "Valet and private entrance",
+        "Collaboration events with Prestige Auto Gallery"
+      ],
+      "securityLevel": "high",
+      "automation": [
+        "Reservation and access control system",
+        "Digital membership management",
+        "Surveillance and environment control",
+        "Smart kitchen systems"
+      ],
+      "listingUrl": [""],
+      "images": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb7%2F00%2F42%2Fb7004204b17e9c8ebe173ba01626274b.jpg&f=1&nofb=1&ipt=68810cce37fba20d92bbda0e242a086cce4588ee742ce6cc92d63b979693533a",
+        "dining room",
+        "https://i.pinimg.com/1200x/c6/64/30/c66430f9f32f6626f7d9abc9a6571001.jpg",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F92%2F88%2Fa5%2F9288a57e7670c7e1bff27c8866525823.jpg&f=1&nofb=1&ipt=e3cc790f6988bc011bc5f6f3a9b86305fb1b24801d48212bf22684be19487e65",
+        "https://i.pinimg.com/736x/66/6b/27/666b27604bca4f6465ad619ffafffa78.jpg",
+        "bar and lounge",
+        "https://i.pinimg.com/736x/ba/8b/75/ba8b7555653f5360785870f60f8f304d.jpg",
+        "https://i.pinimg.com/736x/7f/1c/1e/7f1c1e8061ef049293cb9f2b6aa40d0f.jpg",
+        "washroom",
+        "https://i.pinimg.com/736x/a7/31/9a/a7319a3a3de013466adb95f0fe65858f.jpg",
+        "https://i.pinimg.com/736x/70/72/28/70722878dfb39b8353e3f42cf3af572e.jpg",
+        ""
+      ]
+    },
+
+    { "Mvita Venture Capital": [] },
+    {"name": "Maple Studios Toronto",
+      "id": "maple-studios-toronto",
+      "type": "Entertainment Production Facility",
+      "category": "commercial",
+      "company": "Mvita Venture Capital",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "1155 Leslie Street, Toronto, ON, Canada",
+        "coordinates": {
+          "latitude": 43.7335,
+          "longitude": -79.3544
+        }
+      },
+      "staff": [
+        "Studio Director",
+        "Production Manager",
+        "Sound Engineer",
+        "Cinematographer",
+        "Animation Director",
+        "Editors",
+        "Lighting Technicians",
+        "Art Department",
+        "Security",
+        "Administrative Staff"
+      ],
+      "size": {
+        "value": 180000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 0,
+        "currency": "USD",
+        "annualExpenses": 12000000
+      },
+      "features": [
+        "6 state-of-the-art sound stages (20,000 sq.ft each)",
+        "Motion capture and VFX studios",
+        "Dolby-certified sound mixing suites",
+        "AI-powered animation department",
+        "Music recording and mastering studios",
+        "Green screen and XR LED volume",
+        "Post-production facilities with private editing bays",
+        "Private talent suites and executive offices",
+        "In-house café and wellness lounge",
+        "24/7 on-site security and biometric access"
+      ],
+      "automation": [
+        "Smart lighting and HVAC",
+        "AI-driven production scheduling",
+        "Cloud-based asset management",
+        "Energy optimization system"
+      ],
+      "securityLevel": "high",
+      "listingUrl": [""],
+      "images": [
+        "https://i.pinimg.com/1200x/57/a2/fc/57a2fc09811607e02e69e103d9cbe735.jpg",
+        "https://i.pinimg.com/1200x/33/31/76/333176ba84d9c0bc5dff17d0e5248bca.jpg"
+      ],
+      "notes": "Designed to position Toronto as a global creative production capital for film, TV, music, and animation. Capable of hosting both Hollywood blockbusters and indie productions."
+    },
+    {"name": "Event Center",
+      "id": "event-center",
+      "type": "facility",
+      "category": "commercial",
+      "notes": "Event Center for all Mvita Family Offices, Entities, and Holdings.",
+      "company": "Mvita Capital Investments Ltd",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "Toronto, Ontario",
+        "coordinates": {
+          "latitude": 0,
+          "longitude": -0
+        }
+      },
+      "staff": ["Security Guard"],
+      "size": {
+        "value": 50000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 50000000,
+        "currency": "USD",
+        "annualExpenses": 1000000
+      },
+      "features": [
+        "Event Center",
+        "Broadcast Studio",
+        "Wellness Center",
+        "Cafeteria",
+        "VIP Lounge",
+        "Conference Room",
+        "Meeting Room",
+        "Training Room",
+        "Presentation Room",
+        "Dining Room",
+        "Broadcasting Equipment",
+        "Recording Equipment",
+        "Editing Equipment",
+        "Streaming Equipment",
+        "Networking Equipment",
+        "Security Equipment",
+        "Monitoring Equipment",
+        "Lighting Equipment",
+        "Audio Equipment",
+        "Camera Equipment",
+        "Projection Equipment",
+        "Display Equipment",
+        "Sound Equipment",
+        "Video Equipment",
+        "Computing Equipment"
+      ],
+      "Garage": {
+        "capacity": 6,
+        "features": [""]
+      },
+      "securityLevel": "maximum",
+      "automation": [""],
+      "listingUrl": [""],
+      "images": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F70%2F77%2Fb6%2F7077b66207614fea5c69d93a51b4177d.jpg&f=1&nofb=1&ipt=c761eb5e9e09e6e8bd6cb557b26ad4d43580d493ffb413e74ae05f6c3efc5450",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.newatlas.com%2Fdims4%2Fdefault%2Fd4b808c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3000x1764%2B0%2B0%2Fresize%2F2880x1693!%2Fquality%2F90%2F%3Furl%3Dhttp%3A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252F2f%252Fe6%252F65d45c884f5e994a064b03e71149%252F2-zha-hangzhou-international-sports-centre-render-by-proloog.jpg&f=1&nofb=1&ipt=7b0ec388777464de8c661119e93914e6018306a969a63438d4259ccd822bb3e1",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F3c%2Fcd%2F6b%2F3ccd6b34212d4103983d23d2a67594b8--arenas-facility.jpg&f=1&nofb=1&ipt=d5c34777ded16633143006ce6e501c810c264d2784f854ef0a108cc55f8ae8f6",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F11%2F23%2F651e5aa2-5abd-4c72-8fe2-b4cb676ff711.jpg&f=1&nofb=1&ipt=fcffac28b89e296d3a3c5862186bf59c0051b2fbbf21b7b8e4a943e0e168934b",
+        "auditorium",
+        "https://i.pinimg.com/736x/91/63/71/916371d7e9b45b03eb8cf3339a8353ea.jpg",
+        "Cafeteria & Study Hall",
+        "https://i.pinimg.com/736x/61/7c/6c/617c6c4191dfe6b2fe883d4459bf0010.jpg",
+        "https://i.pinimg.com/1200x/d2/29/bc/d229bc9b1e78980646080825e820be3b.jpg",
+        ""
+      ]
+    }
+  ],
+
+  "automationPresets": [
+    {
+      "_comments:": "Preset for entertaining guests and events",
+      "id": "entertaining-mode",
+      "name": "Entertaining Mode",
+      "description": "Optimized settings for hosting guests and events",
+      "settings": [
+        {
+          "deviceType": "lighting",
+          "zone": "all",
+          "value": "warm-ambient"
+        },
+        {
+          "deviceType": "audio",
+          "zone": "main",
+          "value": "background-music"
+        },
+        {
+          "deviceType": "hvac",
+          "zone": "all",
+          "value": "comfort-optimized"
+        },
+        {
+          "deviceType": "security",
+          "zone": "perimeter",
+          "value": "guest-monitoring"
+        }
+      ]
+    },
+    {
+      "_comments:": "Preset for travel",
+      "id": "travel-mode",
+      "name": "Travel Mode",
+      "description": "Energy-efficient settings when property is unoccupied",
+      "settings": [
+        {
+          "deviceType": "lighting",
+          "zone": "all",
+          "value": "security-only"
+        },
+        {
+          "deviceType": "hvac",
+          "zone": "all",
+          "value": "eco-maintenance"
+        },
+        {
+          "deviceType": "security",
+          "zone": "all",
+          "value": "maximum-monitoring"
+        },
+        {
+          "deviceType": "locks",
+          "zone": "all",
+          "value": "secure"
+        }
+      ]
+    },
+    {
+      "_comments:": "Preset for night-time security and comfort",
+      "id": "night-protocol",
+      "name": "Night Protocol",
+      "description": "Night-time security and comfort settings",
+      "settings": [
+        {
+          "deviceType": "lighting",
+          "zone": "exterior",
+          "value": "security-lighting"
+        },
+        {
+          "deviceType": "lighting",
+          "zone": "interior",
+          "value": "minimal"
+        },
+        {
+          "deviceType": "hvac",
+          "zone": "all",
+          "value": "night-comfort"
+        },
+        {
+          "deviceType": "security",
+          "zone": "all",
+          "value": "maximum-alert"
+        }
+      ]
+    },
+    {"_comments:": "Preset for cocktail hour",
+      "id": "cocktail-hour",
+      "name": "Cocktail Hour",
+      "description": "Elegant evening entertainment settings",
+      "settings": [
+        {
+          "deviceType": "lighting",
+          "zone": "main",
+          "value": "elegant-evening"
+        },
+        {
+          "deviceType": "audio",
+          "zone": "main",
+          "value": "jazz-ambient"
+        },
+        {
+          "deviceType": "hvac",
+          "zone": "all",
+          "value": "comfort-optimized"
+        }
+      ]
+    },
+    {"_comments:": "Preset for meditation and relaxation",
+      "id": "meditation",
+      "name": "Meditation",
+      "description": "Calm and peaceful environment settings",
+      "settings": [
+        {
+          "deviceType": "lighting",
+          "zone": "wellness",
+          "value": "soft-warm"
+        },
+        {
+          "deviceType": "audio",
+          "zone": "wellness",
+          "value": "nature-sounds"
+        },
+        {
+          "deviceType": "hvac",
+          "zone": "wellness",
+          "value": "fresh-air"
+        }
+      ]
+    }
+  ],
+
+  "totalCount": 0,
+  "summary": {
+    "byType": {
+      "office": 20,
+      "facility": 12,
+      "residence": 6
+    },
+    "byCountry": {
+      "Canada": 15,
+      "USA": 4,
+      "UK": 2,
+      "Germany": 1,
+      "Singapore": 1,
+      "DR Congo": 4,
+      "UAE": 4,
+      "Spain": 1,
+      "Congo-Brazzaville": 2,
+      "Nigeria": 3,
+      "South Africa": 2,
+      "Kenya": 1,
+      "France": 3
+    },
+    "byCompany": {
+      "SecureNet": 5,
+      "Syndicate X": 5,
+      "MapleAI": 6,
+      "OrbitTech": 7,
+      "Congo Direct": 5,
+      "Golden Maple Holdings": 1,
+      "Agape Records": 4,
+      "Maison Agape": 4,
+      "Mvita Congo Developments SARL": 1,
+      "KIEAT Holdings": 1,
+      "Mvita Family Office": 8
+    },
+    "totalValue": 3691000000
+  }
+}
