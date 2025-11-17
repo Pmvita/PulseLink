@@ -25,7 +25,15 @@ export function useWebSocket() {
 
   const connect = useCallback(() => {
     if (wsRef.current?.readyState === WebSocket.OPEN) {
+      console.log("WebSocket already connected");
       return;
+    }
+
+    // Close existing connection if any
+    if (wsRef.current) {
+      console.log("Closing existing WebSocket connection");
+      wsRef.current.close();
+      wsRef.current = null;
     }
 
     try {
@@ -36,9 +44,14 @@ export function useWebSocket() {
       });
 
       const ws = new WebSocket(WS_URL);
+      
+      // Set ref immediately so it's available
+      wsRef.current = ws;
+      console.log("WebSocket created, ref set");
 
       ws.onopen = () => {
-        console.log("WebSocket connected");
+        console.log("WebSocket connected, readyState:", ws.readyState);
+        console.log("WebSocket ref readyState:", wsRef.current?.readyState);
         reconnectAttemptsRef.current = 0;
         setIsConnected(true);
         setConnectionStatus("connected");
@@ -69,10 +82,16 @@ export function useWebSocket() {
 
           // Handle device update
           else if (data.type === "deviceUpdate") {
+            console.log("Received device update:", {
+              deviceId: data.deviceId,
+              status: data.status,
+              value: data.value,
+            });
             updateDevice(data.deviceId, {
               status: data.status,
               value: data.value,
             });
+            console.log("Device updated in store");
           }
 
           // Handle errors
@@ -132,10 +151,12 @@ export function useWebSocket() {
         }
       };
 
-      wsRef.current = ws;
+      // Ref is already set above
     } catch (error) {
       console.error("Error creating WebSocket:", error);
+      wsRef.current = null;
       setConnectionStatus("error");
+      setIsConnected(false);
       addLog({
         type: "error",
         message: "Failed to create connection",
@@ -156,9 +177,21 @@ export function useWebSocket() {
 
   const sendMessage = useCallback(
     (message: any) => {
-      if (wsRef.current?.readyState === WebSocket.OPEN) {
+      // Check if WebSocket exists and is open
+      if (!wsRef.current) {
+        console.warn("WebSocket not initialized, attempting to connect...");
+        connect();
+        addLog({
+          type: "error",
+          message: "WebSocket not initialized, reconnecting...",
+        });
+        return false;
+      }
+      
+      if (wsRef.current.readyState === WebSocket.OPEN) {
         try {
           const jsonMessage = JSON.stringify(message);
+          console.log("WebSocket sending message:", jsonMessage);
           wsRef.current.send(jsonMessage);
           
           addLog({
@@ -177,14 +210,19 @@ export function useWebSocket() {
           return false;
         }
       } else {
+        console.warn("WebSocket not open, readyState:", wsRef.current.readyState, "attempting to reconnect...");
+        // Try to reconnect if not open
+        if (wsRef.current.readyState === WebSocket.CLOSED || wsRef.current.readyState === WebSocket.CLOSING) {
+          connect();
+        }
         addLog({
           type: "error",
-          message: "Not connected to server",
+          message: "Not connected to server, reconnecting...",
         });
         return false;
       }
     },
-    [addLog]
+    [addLog, connect]
   );
 
   const toggleDevice = useCallback(

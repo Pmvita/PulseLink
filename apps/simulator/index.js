@@ -332,8 +332,20 @@ wss.on("connection", (ws) => {
           const newValue = message.value !== undefined ? message.value : !device.value;
           updateDevice(message.deviceId, { value: newValue });
           
-          const icon = device.type === "switch" ? "💡" : "🌡️";
-          const status = device.status === "on" ? chalk.green("ON") : chalk.red("OFF");
+          let icon = "⚙️";
+          let status = "";
+          
+          if (device.type === "switch") {
+            icon = "💡";
+            status = device.status === "on" ? chalk.green("ON") : chalk.red("OFF");
+          } else if (device.type === "door") {
+            icon = "🚪";
+            status = device.status === "open" ? chalk.green("OPEN") : chalk.red("CLOSED");
+          } else {
+            icon = "🌡️";
+            status = device.status === "active" ? chalk.green("ACTIVE") : chalk.red("INACTIVE");
+          }
+          
           console.log(chalk.blue(`${icon} ${device.name} toggled ${status}`));
           
           // Broadcast update to all clients

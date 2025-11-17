@@ -8,10 +8,11 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { StatusBar } from "expo-status-bar";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useDeviceStore } from "../store/deviceStore";
 import { useWebSocket } from "../hooks/useWebSocket";
 import { DeviceCard } from "../components/DeviceCard";
+import { DoorControl } from "../components/DoorControl";
 import {
   Home,
   Settings,
@@ -124,7 +125,29 @@ export function PropertyDetailsScreen({
       const devicesResponse = await fetch(`${API_URL}/api/properties/${property.id}/devices`);
       if (devicesResponse.ok) {
         const devicesData = await devicesResponse.json();
-        setPropertyDevices(devicesData.devices || []);
+        const fetchedDevices = devicesData.devices || [];
+        setPropertyDevices(fetchedDevices);
+        
+        // Also add devices to store so WebSocket updates work
+        const { setDevices } = useDeviceStore.getState();
+        const currentDevices = useDeviceStore.getState().devices;
+        
+        // Merge fetched devices with existing store devices
+        const mergedDevices = fetchedDevices.map((apiDevice: any) => {
+          const existingDevice = currentDevices.find((d) => d.id === apiDevice.id);
+          // Use existing device if it has updates, otherwise use API device
+          return existingDevice || apiDevice;
+        });
+        
+        // Add any new devices that aren't in the store yet
+        fetchedDevices.forEach((apiDevice: any) => {
+          if (!currentDevices.find((d) => d.id === apiDevice.id)) {
+            mergedDevices.push(apiDevice);
+          }
+        });
+        
+        // Update store with merged devices
+        setDevices([...currentDevices.filter(d => !fetchedDevices.find((fd: any) => fd.id === d.id)), ...mergedDevices]);
       }
 
       // Fetch cameras for this property
@@ -171,8 +194,23 @@ export function PropertyDetailsScreen({
     fetchWeatherData();
   };
 
-  // Use fetched devices or fallback to store devices
-  const displayDevices = propertyDevices.length > 0 ? propertyDevices : storeDevices;
+  // Merge fetched devices with WebSocket updates from store
+  // This ensures real-time updates are reflected even when using API-fetched devices
+  const displayDevices = useMemo(() => {
+    if (propertyDevices.length === 0) {
+      return storeDevices;
+    }
+    
+    // Merge API devices with store updates (store has latest WebSocket updates)
+    return propertyDevices.map((apiDevice) => {
+      const storeDevice = devices.find((d) => d.id === apiDevice.id);
+      if (storeDevice) {
+        // Use store device if it exists (has latest WebSocket updates)
+        return storeDevice;
+      }
+      return apiDevice;
+    });
+  }, [propertyDevices, storeDevices, devices]);
 
   // Map automation icons and colors
   const getAutomationIcon = (name: string) => {
@@ -474,9 +512,11 @@ export function PropertyDetailsScreen({
               rooms.map((room) => (
                 <View key={room.name} style={styles.roomSection}>
                   <Text style={styles.roomTitle}>{room.name}</Text>
-                  {room.devices.map((device) => (
-                    <DeviceCard key={device.id} device={device} />
-                  ))}
+                  {room.devices
+                    .filter((d) => d.type !== "door") // Exclude doors from regular device list
+                    .map((device) => (
+                      <DeviceCard key={device.id} device={device} />
+                    ))}
                 </View>
               ))
             ) : (
@@ -976,6 +1016,9 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: "600",
     color: "#ffffff",
+  },
+  doorsSection: {
+    marginBottom: 24,
   },
   roomSection: {
     marginBottom: 24,

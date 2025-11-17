@@ -56,6 +56,15 @@ export function generateDevicesForProperty(propertyId) {
     },
     // Gate
     {
+      id: `${propertyId}-gate-main`,
+      name: "Main Gate",
+      type: "door",
+      status: "closed",
+      value: false, // false = closed, true = open
+      room: "Gate",
+      propertyId: propertyId,
+    },
+    {
       id: `${propertyId}-gate-light-1`,
       name: "Gate Light",
       type: "switch",
@@ -84,11 +93,11 @@ export function generateDevicesForProperty(propertyId) {
       propertyId: propertyId,
     },
     {
-      id: `${propertyId}-garage-door-1`,
+      id: `${propertyId}-garage-door-main`,
       name: "Garage Door",
-      type: "switch",
-      status: "off",
-      value: false,
+      type: "door",
+      status: "closed",
+      value: false, // false = closed, true = open
       room: "Garage",
       propertyId: propertyId,
     },
@@ -161,6 +170,11 @@ export function updateDevice(id, updates) {
     // For switch devices, sync status with value
     if (device.type === "switch") {
       device.status = device.value ? "on" : "off";
+    }
+    
+    // For door devices, sync status with value
+    if (device.type === "door") {
+      device.status = device.value ? "open" : "closed";
     }
     
     return device;

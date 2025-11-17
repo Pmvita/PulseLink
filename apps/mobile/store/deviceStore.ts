@@ -5,8 +5,8 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 export interface Device {
   id: string;
   name: string;
-  type: "switch" | "sensor";
-  status: "online" | "offline" | "on" | "off" | "active";
+  type: "switch" | "sensor" | "door";
+  status: "online" | "offline" | "on" | "off" | "active" | "open" | "closed";
   value?: number | boolean;
   unit?: string;
   room?: string;
@@ -90,12 +90,33 @@ export const useDeviceStore = create<DeviceStore & { _hasHydrated: boolean; setH
 
       setDevices: (devices) => set({ devices }),
 
-      updateDevice: (id, updates) =>
-        set((state) => ({
-          devices: state.devices.map((device) =>
+      updateDevice: (id, updates) => {
+        console.log("Updating device in store:", { id, updates });
+        set((state) => {
+          const deviceIndex = state.devices.findIndex((device) => device.id === id);
+          
+          if (deviceIndex === -1) {
+            // Device not found in store - this shouldn't happen, but log it
+            console.warn("Device not found in store for update:", id);
+            console.log("Current devices in store:", state.devices.map(d => d.id));
+            return state; // Don't update if device doesn't exist
+          }
+          
+          const updatedDevices = state.devices.map((device) =>
             device.id === id ? { ...device, ...updates } : device
-          ),
-        })),
+          );
+          
+          const updatedDevice = updatedDevices.find(d => d.id === id);
+          console.log("Device updated in store:", {
+            id: updatedDevice?.id,
+            name: updatedDevice?.name,
+            status: updatedDevice?.status,
+            value: updatedDevice?.value,
+          });
+          
+          return { devices: updatedDevices };
+        });
+      },
 
       addLog: (entry) =>
         set((state) => ({
