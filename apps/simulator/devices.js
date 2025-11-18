@@ -6,57 +6,8 @@
 // Generate devices for a property
 export function generateDevicesForProperty(propertyId) {
   const baseDevices = [
-    // Living Room
-    {
-      id: `${propertyId}-living-lamp-1`,
-      name: "Living Room Main Light",
-      type: "switch",
-      status: "off",
-      value: false,
-      room: "Living Room",
-      propertyId: propertyId,
-    },
-    {
-      id: `${propertyId}-living-fan-1`,
-      name: "Living Room Ceiling Fan",
-      type: "switch",
-      status: "off",
-      value: false,
-      room: "Living Room",
-      propertyId: propertyId,
-    },
-    // Bedroom
-    {
-      id: `${propertyId}-bedroom-lamp-1`,
-      name: "Bedroom Light",
-      type: "switch",
-      status: "off",
-      value: false,
-      room: "Bedroom",
-      propertyId: propertyId,
-    },
-    {
-      id: `${propertyId}-bedroom-fan-1`,
-      name: "Bedroom Fan",
-      type: "switch",
-      status: "off",
-      value: false,
-      room: "Bedroom",
-      propertyId: propertyId,
-    },
-    // Kitchen
-    {
-      id: `${propertyId}-kitchen-light-1`,
-      name: "Kitchen Light",
-      type: "switch",
-      status: "off",
-      value: false,
-      room: "Kitchen",
-      propertyId: propertyId,
-    },
     // Gate
-    {
-      id: `${propertyId}-gate-main`,
+    {id: `${propertyId}-gate-main`,
       name: "Main Gate",
       type: "door",
       status: "closed",
@@ -64,8 +15,7 @@ export function generateDevicesForProperty(propertyId) {
       room: "Gate",
       propertyId: propertyId,
     },
-    {
-      id: `${propertyId}-gate-light-1`,
+    {id: `${propertyId}-gate-light-1`,
       name: "Gate Light",
       type: "switch",
       status: "off",
@@ -73,8 +23,7 @@ export function generateDevicesForProperty(propertyId) {
       room: "Gate",
       propertyId: propertyId,
     },
-    {
-      id: `${propertyId}-gate-sensor-1`,
+    {id: `${propertyId}-gate-sensor-1`,
       name: "Gate Motion Sensor",
       type: "sensor",
       status: "active",
@@ -83,8 +32,7 @@ export function generateDevicesForProperty(propertyId) {
       propertyId: propertyId,
     },
     // Garage
-    {
-      id: `${propertyId}-garage-light-1`,
+    {id: `${propertyId}-garage-light-1`,
       name: "Garage Light",
       type: "switch",
       status: "off",
@@ -92,8 +40,7 @@ export function generateDevicesForProperty(propertyId) {
       room: "Garage",
       propertyId: propertyId,
     },
-    {
-      id: `${propertyId}-garage-door-main`,
+    {id: `${propertyId}-garage-door-main`,
       name: "Garage Door",
       type: "door",
       status: "closed",
@@ -101,9 +48,51 @@ export function generateDevicesForProperty(propertyId) {
       room: "Garage",
       propertyId: propertyId,
     },
+    // Living Room
+    {id: `${propertyId}-living-lamp-1`,
+      name: "Living Room Main Light",
+      type: "switch",
+      status: "off",
+      value: false,
+      room: "Living Room",
+      propertyId: propertyId,
+    },
+    {id: `${propertyId}-living-fan-1`,
+      name: "Living Room Ceiling Fan",
+      type: "switch",
+      status: "off",
+      value: false,
+      room: "Living Room",
+      propertyId: propertyId,
+    },
+    // Bedroom
+    {id: `${propertyId}-bedroom-lamp-1`,
+      name: "Bedroom Light",
+      type: "switch",
+      status: "off",
+      value: false,
+      room: "Bedroom",
+      propertyId: propertyId,
+    },
+    {id: `${propertyId}-bedroom-fan-1`,
+      name: "Bedroom Fan",
+      type: "switch",
+      status: "off",
+      value: false,
+      room: "Bedroom",
+      propertyId: propertyId,
+    },
+    // Kitchen
+    {id: `${propertyId}-kitchen-light-1`,
+      name: "Kitchen Light",
+      type: "switch",
+      status: "off",
+      value: false,
+      room: "Kitchen",
+      propertyId: propertyId,
+    },
     // Outdoor
-    {
-      id: `${propertyId}-outdoor-light-1`,
+    {id: `${propertyId}-outdoor-light-1`,
       name: "Outdoor Light",
       type: "switch",
       status: "off",
@@ -112,8 +101,7 @@ export function generateDevicesForProperty(propertyId) {
       propertyId: propertyId,
     },
     // Sensors (shared across property)
-    {
-      id: `${propertyId}-sensor-temp-1`,
+    {id: `${propertyId}-sensor-temp-1`,
       name: "Temperature Sensor",
       type: "sensor",
       status: "active",
@@ -122,8 +110,7 @@ export function generateDevicesForProperty(propertyId) {
       room: "Outdoor",
       propertyId: propertyId,
     },
-    {
-      id: `${propertyId}-sensor-humidity-1`,
+    {id: `${propertyId}-sensor-humidity-1`,
       name: "Humidity Sensor",
       type: "sensor",
       status: "active",
